@@ -1,0 +1,1896 @@
+[
+    {
+        "id": "b2e534a9a5491881",
+        "type": "tab",
+        "label": "Your First Node Here !",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d859e56188e62434",
+        "type": "tab",
+        "label": "PackML",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ddcb12a8b7e6e572",
+        "type": "tab",
+        "label": "Get Position",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "916a7dcd57334d97",
+        "type": "tab",
+        "label": "Documentation",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ee49250e48b1cd6d",
+        "type": "group",
+        "z": "ddcb12a8b7e6e572",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "baf771171c7930ff",
+            "f4adb9a16b156a98",
+            "022c623acf6b8b9f",
+            "50cf4a19ad01a7ed",
+            "b6eb76b67f9af184",
+            "a5577a1364d09ec7",
+            "9662e314c1cd2a6d",
+            "c0de5fedc20aedd7",
+            "3378dd5ccea45261",
+            "73713aa137ca615a",
+            "9ea4372ed4ec2b34",
+            "a1134de19ac8b756",
+            "52cea7b4c0906e94"
+        ],
+        "x": 84,
+        "y": 159,
+        "w": 832,
+        "h": 422
+    },
+    {
+        "id": "999bf785b0e12d8c",
+        "type": "group",
+        "z": "d859e56188e62434",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eb94346aef730bbb",
+            "1217d45b76e312b1",
+            "2e485f6ff2357209",
+            "1f152c2c26ab124c",
+            "628c9b295fafc3d8",
+            "87a833fb11ba224a",
+            "71609b616a4774db"
+        ],
+        "x": 44,
+        "y": 599,
+        "w": 982,
+        "h": 222
+    },
+    {
+        "id": "265bdfe8d4b41753",
+        "type": "group",
+        "z": "d859e56188e62434",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c6cb529ab164eb4b",
+            "280154f2769bf290",
+            "d8fc42ced454e966",
+            "d05d38a1f67a6225",
+            "8766102f7fe474f4",
+            "0ee5b57d5ed01f48",
+            "1e5a951427e248cf",
+            "129851a2963b5a58",
+            "6a7670a281d74bfc",
+            "9ae518ba14682f23",
+            "24d9fb6f716b6dac"
+        ],
+        "x": 14,
+        "y": 19,
+        "w": 992,
+        "h": 242
+    },
+    {
+        "id": "7d9ad1b30a1a1593",
+        "type": "group",
+        "z": "ddcb12a8b7e6e572",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "130f961586dfe970",
+            "d0f7918eb3b846ad",
+            "1a808b3d54924894",
+            "d1a92b6dc043720e",
+            "5ff195e51e8649df",
+            "9d102ad46f08bc13",
+            "c548587a52119711",
+            "d265fbdc017837e8"
+        ],
+        "x": 94,
+        "y": 619,
+        "w": 858,
+        "h": 522
+    },
+    {
+        "id": "55f560f139a6c5b5",
+        "type": "group",
+        "z": "d859e56188e62434",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7288558c6ec81ff0",
+            "5590e3ff9cc61d31",
+            "2ae655fb5597ed5d"
+        ],
+        "x": 44,
+        "y": 859,
+        "w": 762,
+        "h": 142
+    },
+    {
+        "id": "5ff195e51e8649df",
+        "type": "group",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f75c9f6a9a966daf",
+            "4ab52d0d783c556e",
+            "87c646f96598e6f6"
+        ],
+        "x": 354,
+        "y": 719,
+        "w": 572,
+        "h": 82
+    },
+    {
+        "id": "9d102ad46f08bc13",
+        "type": "group",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "155b4f8e9f77c0b0",
+            "c6ae183f1f1a4247",
+            "53d16897975c5bcf"
+        ],
+        "x": 354,
+        "y": 839,
+        "w": 572,
+        "h": 82
+    },
+    {
+        "id": "c548587a52119711",
+        "type": "group",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eb705f0d4cec4559",
+            "7ff9ee80161415e2",
+            "885228457da4849e"
+        ],
+        "x": 354,
+        "y": 979,
+        "w": 572,
+        "h": 82
+    },
+    {
+        "id": "2fc0336def1d763c",
+        "type": "ui-base",
+        "name": "My Dashboard",
+        "path": "/dashboard",
+        "appIcon": "robot",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "navigationStyle": "default",
+        "titleBarStyle": "fixed",
+        "info": "# HES-SO Valais//Wallis"
+    },
+    {
+        "id": "8966a7b403a8fb88",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094ce",
+            "bgPage": "#8080ff",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "66c6923e3822666a",
+        "type": "ui-page",
+        "name": "CtrlX Data Layer Test",
+        "ui": "2fc0336def1d763c",
+        "path": "/robot",
+        "icon": "robot-happy-outline",
+        "layout": "grid",
+        "theme": "8966a7b403a8fb88",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": true,
+        "disabled": false
+    },
+    {
+        "id": "e45e312c80fc001e",
+        "type": "ctrlx-config",
+        "name": "Nodered",
+        "hostname": "192.168.0.200",
+        "debug": false
+    },
+    {
+        "id": "c5b0190b901ecb86",
+        "type": "ctrlx-config-subscription",
+        "device": "e45e312c80fc001e",
+        "name": "Subscribe",
+        "publishIntervalMs": "",
+        "publishIntervalUnits": "seconds",
+        "samplingInterval": "",
+        "samplingIntervalUnits": "seconds",
+        "errorInterval": "",
+        "errorIntervalUnits": "seconds",
+        "keepaliveInterval": "",
+        "keepaliveIntervalUnits": "minutes",
+        "queueSize": "",
+        "queueBehaviour": "DiscardOldest",
+        "deadbandValue": ""
+    },
+    {
+        "id": "bb97738361048557",
+        "type": "ui-group",
+        "name": "Robot Position",
+        "page": "66c6923e3822666a",
+        "width": "6",
+        "height": "1",
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "5e3f352f60d7af69",
+        "type": "ui-page",
+        "name": "Documentations",
+        "ui": "2fc0336def1d763c",
+        "path": "/page3",
+        "icon": "home",
+        "layout": "notebook",
+        "theme": "8966a7b403a8fb88",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "6b2222aa7324c02b",
+        "type": "ui-group",
+        "name": "Base",
+        "page": "5e3f352f60d7af69",
+        "width": "6",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "f52f774838673224",
+        "type": "ui-group",
+        "name": "Commands and Read",
+        "page": "66c6923e3822666a",
+        "width": "6",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "6f4d4cc842955c98",
+        "type": "ui-group",
+        "name": "CPU",
+        "page": "66c6923e3822666a",
+        "width": "6",
+        "height": "1",
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "3c78dec33d077414",
+        "type": "ui-page",
+        "name": "Your First UI Page",
+        "ui": "2fc0336def1d763c",
+        "path": "/MyUI",
+        "icon": "account-school",
+        "layout": "grid",
+        "theme": "8966a7b403a8fb88",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": true,
+        "disabled": false
+    },
+    {
+        "id": "166995c74f30a0c3",
+        "type": "ui-group",
+        "name": "Your First Group",
+        "page": "3c78dec33d077414",
+        "width": "6",
+        "height": "6",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "c6cb529ab164eb4b",
+        "type": "ui-button",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "group": "f52f774838673224",
+        "name": "",
+        "label": "Stop",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "stop",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "red",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "d8fc42ced454e966"
+            ]
+        ]
+    },
+    {
+        "id": "280154f2769bf290",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiCmdStop",
+        "payloadFormat": "value_type",
+        "name": "Stop",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 510,
+        "y": 220,
+        "wires": [
+            [
+                "1e5a951427e248cf"
+            ]
+        ]
+    },
+    {
+        "id": "628c9b295fafc3d8",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "subscription": "c5b0190b901ecb86",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiStateMasterCurrent",
+        "name": "",
+        "inputs": 0,
+        "x": 260,
+        "y": 780,
+        "wires": [
+            [
+                "87a833fb11ba224a"
+            ]
+        ]
+    },
+    {
+        "id": "87a833fb11ba224a",
+        "type": "ui-text",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "group": "f52f774838673224",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "PackML State : ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 590,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "1f152c2c26ab124c",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "subscription": "c5b0190b901ecb86",
+        "path": "plc/app/Application/sym/PackTag/hevsPackTime/Date_and_time_string",
+        "name": "",
+        "inputs": 0,
+        "x": 270,
+        "y": 720,
+        "wires": [
+            [
+                "71609b616a4774db"
+            ]
+        ]
+    },
+    {
+        "id": "71609b616a4774db",
+        "type": "ui-text",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "group": "f52f774838673224",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "PLC Time: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 620,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "a1060673e2be3a2c",
+        "type": "ui-switch",
+        "z": "d859e56188e62434",
+        "name": "",
+        "label": "Alarm 0",
+        "group": "f52f774838673224",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "decouple": false,
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "className": "",
+        "layout": "row-left",
+        "clickableArea": "switch",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "x": 140,
+        "y": 540,
+        "wires": [
+            [
+                "3f4b455dbd3b8431",
+                "f1cf51eaaf3698b4"
+            ]
+        ]
+    },
+    {
+        "id": "3f4b455dbd3b8431",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "name": "bool8",
+        "func": "let msgValue = msg.payload;\n\nmsg.payload = {type:\"bool8\",value:msgValue};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 540,
+        "wires": [
+            [
+                "f67bbd742a35c341"
+            ]
+        ]
+    },
+    {
+        "id": "f1cf51eaaf3698b4",
+        "type": "debug",
+        "z": "d859e56188e62434",
+        "name": "debug 8",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 340,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "f67bbd742a35c341",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PackTag/hevsPackAlarm_UI/uiSetAlarm_0",
+        "payloadFormat": "value_type",
+        "name": "Alarm 0",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 540,
+        "y": 540,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7c6cf4ac6891125c",
+        "type": "ui-button",
+        "z": "d859e56188e62434",
+        "group": "f52f774838673224",
+        "name": "",
+        "label": "Start",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "restart",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "green",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 90,
+        "y": 320,
+        "wires": [
+            [
+                "bbc1514fd96b465a"
+            ]
+        ]
+    },
+    {
+        "id": "bbc1514fd96b465a",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 320,
+        "wires": [
+            [
+                "fc77d16e676698b4"
+            ]
+        ]
+    },
+    {
+        "id": "fc77d16e676698b4",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiCmdStart",
+        "payloadFormat": "value_type",
+        "name": "Start",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 570,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27b17999284e0525",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiCmdClear",
+        "payloadFormat": "value_type",
+        "name": "Start",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 570,
+        "y": 400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "277dfe0df818b263",
+        "type": "ui-button",
+        "z": "d859e56188e62434",
+        "group": "f52f774838673224",
+        "name": "",
+        "label": "Clear",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "power-plug",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "blue",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 90,
+        "y": 400,
+        "wires": [
+            [
+                "7d98294381bffb03"
+            ]
+        ]
+    },
+    {
+        "id": "7d98294381bffb03",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 400,
+        "wires": [
+            [
+                "27b17999284e0525"
+            ]
+        ]
+    },
+    {
+        "id": "d8fc42ced454e966",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 220,
+        "wires": [
+            [
+                "280154f2769bf290"
+            ]
+        ]
+    },
+    {
+        "id": "d05d38a1f67a6225",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PRG_DeviceManager/SetOpenGripper",
+        "payloadFormat": "value_type",
+        "name": "Open Gripper",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 540,
+        "y": 60,
+        "wires": [
+            [
+                "1e5a951427e248cf"
+            ]
+        ]
+    },
+    {
+        "id": "8766102f7fe474f4",
+        "type": "ui-button",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "group": "bb97738361048557",
+        "name": "Close Gripper",
+        "label": "Close",
+        "order": 1,
+        "width": "2",
+        "height": "1",
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 120,
+        "y": 120,
+        "wires": [
+            [
+                "6a7670a281d74bfc"
+            ]
+        ]
+    },
+    {
+        "id": "0ee5b57d5ed01f48",
+        "type": "ctrlx-datalayer-request",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PRG_DeviceManager/SetCloseGripper",
+        "payloadFormat": "value_type",
+        "name": "Close Gripper",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 540,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1e5a951427e248cf",
+        "type": "debug",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "name": "Open Gripper",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "129851a2963b5a58",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 335.8833312988281,
+        "y": 60,
+        "wires": [
+            [
+                "d05d38a1f67a6225"
+            ]
+        ]
+    },
+    {
+        "id": "6a7670a281d74bfc",
+        "type": "function",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 120,
+        "wires": [
+            [
+                "0ee5b57d5ed01f48"
+            ]
+        ]
+    },
+    {
+        "id": "9ae518ba14682f23",
+        "type": "ui-button",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "group": "bb97738361048557",
+        "name": "Open Gripper",
+        "label": "Open",
+        "order": 2,
+        "width": "2",
+        "height": "1",
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 120,
+        "y": 60,
+        "wires": [
+            [
+                "129851a2963b5a58"
+            ]
+        ]
+    },
+    {
+        "id": "eb94346aef730bbb",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "subscription": "c5b0190b901ecb86",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiModeMasterCurrent",
+        "name": "",
+        "inputs": 0,
+        "x": 240,
+        "y": 640,
+        "wires": [
+            [
+                "1217d45b76e312b1"
+            ]
+        ]
+    },
+    {
+        "id": "1217d45b76e312b1",
+        "type": "ui-text",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "group": "f52f774838673224",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "PackML Mode : ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 710,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "2e485f6ff2357209",
+        "type": "comment",
+        "z": "d859e56188e62434",
+        "g": "999bf785b0e12d8c",
+        "name": "Get Current Mode, State and Time",
+        "info": "",
+        "x": 860,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "24d9fb6f716b6dac",
+        "type": "comment",
+        "z": "d859e56188e62434",
+        "g": "265bdfe8d4b41753",
+        "name": "Manage Gripper Manually",
+        "info": "",
+        "x": 870,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "7288558c6ec81ff0",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "d859e56188e62434",
+        "g": "55f560f139a6c5b5",
+        "subscription": "c5b0190b901ecb86",
+        "path": "framework/metrics/system/cpu-utilisation-percent",
+        "name": "",
+        "inputs": 0,
+        "x": 250,
+        "y": 900,
+        "wires": [
+            [
+                "5590e3ff9cc61d31"
+            ]
+        ]
+    },
+    {
+        "id": "5590e3ff9cc61d31",
+        "type": "ui-gauge",
+        "z": "d859e56188e62434",
+        "g": "55f560f139a6c5b5",
+        "name": "CPU Usage",
+        "group": "6f4d4cc842955c98",
+        "order": 1,
+        "width": 3,
+        "height": 3,
+        "gtype": "gauge-half",
+        "gstyle": "needle",
+        "title": "CPU Usage",
+        "units": "%",
+        "icon": "cpu-64-bit",
+        "prefix": "",
+        "suffix": "",
+        "segments": [
+            {
+                "from": "0",
+                "color": "#5cd65c"
+            },
+            {
+                "from": "20",
+                "color": "#ffc800"
+            },
+            {
+                "from": "90",
+                "color": "#ea5353"
+            }
+        ],
+        "min": 0,
+        "max": "100",
+        "sizeThickness": 16,
+        "sizeGap": 4,
+        "sizeKeyThickness": 8,
+        "styleRounded": true,
+        "styleGlow": false,
+        "className": "",
+        "x": 600,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "2ae655fb5597ed5d",
+        "type": "comment",
+        "z": "d859e56188e62434",
+        "g": "55f560f139a6c5b5",
+        "name": "Get CPU Usage from DataLayer",
+        "info": "",
+        "x": 650,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "baf771171c7930ff",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "subscription": "c5b0190b901ecb86",
+        "path": "motion/axs/Axis_x/state/values/actual/pos/mm",
+        "name": "",
+        "inputs": 0,
+        "x": 280,
+        "y": 260,
+        "wires": [
+            [
+                "9662e314c1cd2a6d",
+                "c0de5fedc20aedd7"
+            ]
+        ]
+    },
+    {
+        "id": "f4adb9a16b156a98",
+        "type": "ui-text",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "group": "bb97738361048557",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "X",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 820,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "022c623acf6b8b9f",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "subscription": "c5b0190b901ecb86",
+        "path": "motion/axs/Axis_y/state/values/actual/pos/mm",
+        "name": "",
+        "inputs": 0,
+        "x": 280,
+        "y": 340,
+        "wires": [
+            [
+                "3378dd5ccea45261"
+            ]
+        ]
+    },
+    {
+        "id": "50cf4a19ad01a7ed",
+        "type": "ui-text",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "group": "bb97738361048557",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "name": "Y",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 820,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "b6eb76b67f9af184",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "subscription": "c5b0190b901ecb86",
+        "path": "motion/axs/Axis_z/state/values/actual/pos/mm",
+        "name": "",
+        "inputs": 0,
+        "x": 280,
+        "y": 440,
+        "wires": [
+            [
+                "73713aa137ca615a",
+                "9ea4372ed4ec2b34"
+            ]
+        ]
+    },
+    {
+        "id": "a5577a1364d09ec7",
+        "type": "ui-text",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "group": "bb97738361048557",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "name": "Z",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "className": "",
+        "x": 820,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "9662e314c1cd2a6d",
+        "type": "debug",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "debug 2",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 630,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "c0de5fedc20aedd7",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "Round 0.01",
+        "func": "let position = Math.round(msg.payload * 100) / 100;\n\nglobal.set('X_Position', position);\n\nlet postion_mm = 'Axis X : ';\n\npostion_mm = postion_mm.concat(position,' [mm]');\n\nmsg.payload = postion_mm;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 260,
+        "wires": [
+            [
+                "f4adb9a16b156a98"
+            ]
+        ]
+    },
+    {
+        "id": "3378dd5ccea45261",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "Round 0.01",
+        "func": "let position = Math.round(msg.payload * 100) / 100;\n\nglobal.set('Y_Position', position);\n\nlet postion_mm = 'Axis Y : ';\n\npostion_mm = postion_mm.concat(position,' [mm]');\n\nmsg.payload = postion_mm;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 340,
+        "wires": [
+            [
+                "50cf4a19ad01a7ed"
+            ]
+        ]
+    },
+    {
+        "id": "73713aa137ca615a",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "Round 0.01",
+        "func": "let position = Math.round(msg.payload * 100) / 100;\n\nglobal.set('Z_Position', position);\n\nlet postion_mm = 'Axis Z : ';\n\npostion_mm = postion_mm.concat(position,' [mm]');\n\nmsg.payload = postion_mm;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 440,
+        "wires": [
+            [
+                "a5577a1364d09ec7"
+            ]
+        ]
+    },
+    {
+        "id": "9ea4372ed4ec2b34",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "function 2",
+        "func": "let newMsg = msg;\n\nnewMsg.payload.logDate = Date();\n\nmsg = newMsg;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 540,
+        "wires": [
+            [
+                "a1134de19ac8b756"
+            ]
+        ]
+    },
+    {
+        "id": "a1134de19ac8b756",
+        "type": "debug",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "debug 6",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "52cea7b4c0906e94",
+        "type": "comment",
+        "z": "ddcb12a8b7e6e572",
+        "g": "ee49250e48b1cd6d",
+        "name": "Axes Position",
+        "info": "",
+        "x": 180,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "051050a420f86c31",
+        "type": "ui-text",
+        "z": "ddcb12a8b7e6e572",
+        "group": "bb97738361048557",
+        "order": 3,
+        "width": "2",
+        "height": "1",
+        "name": "Gripper",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#717171",
+        "wrapText": false,
+        "className": "",
+        "x": 800,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "b95fac2dfb2ed145",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "name": "Round 0.01",
+        "func": "let position = Math.round(msg.payload * 100) / 100;\n\nglobal.set('Gripper_State', position);\n\nlet postion_mm = 'Gripper : ';\n\npostion_mm = postion_mm.concat(position,' [mm]');\n\nmsg.payload = postion_mm;\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 100,
+        "wires": [
+            [
+                "051050a420f86c31"
+            ]
+        ]
+    },
+    {
+        "id": "63ba909bc2320dd5",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "ddcb12a8b7e6e572",
+        "subscription": "c5b0190b901ecb86",
+        "path": "plc/app/Application/sym/PRG_DeviceManager/GetGripperSensor_mm",
+        "name": "",
+        "inputs": 0,
+        "x": 260,
+        "y": 100,
+        "wires": [
+            [
+                "b95fac2dfb2ed145"
+            ]
+        ]
+    },
+    {
+        "id": "130f961586dfe970",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "name": "bool8 TRUE",
+        "func": "msg.payload = {type:\"bool8\",value:true};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 390,
+        "y": 660,
+        "wires": [
+            [
+                "d0f7918eb3b846ad"
+            ]
+        ]
+    },
+    {
+        "id": "d0f7918eb3b846ad",
+        "type": "ctrlx-datalayer-request",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PackTag/hevsUI/uiCmdReset",
+        "payloadFormat": "value_type",
+        "name": "Reset",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 570,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1a808b3d54924894",
+        "type": "ui-button",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "group": "f52f774838673224",
+        "name": "",
+        "label": "Reset",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "emulateClick": false,
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "lock-reset",
+        "iconPosition": "left",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "true",
+        "topicType": "msg",
+        "buttonColor": "",
+        "textColor": "",
+        "iconColor": "",
+        "enableClick": true,
+        "enablePointerdown": false,
+        "pointerdownPayload": "",
+        "pointerdownPayloadType": "str",
+        "enablePointerup": false,
+        "pointerupPayload": "",
+        "pointerupPayloadType": "str",
+        "x": 170,
+        "y": 660,
+        "wires": [
+            [
+                "130f961586dfe970",
+                "d1a92b6dc043720e"
+            ]
+        ]
+    },
+    {
+        "id": "d1a92b6dc043720e",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "name": "Reset X Y Z Slider",
+        "func": "const msg1 = {payload:-199};\nconst msg2 = {payload:-78};\nconst msg3 = {payload:0};\n\n\nreturn [msg1, msg2, msg3];",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 840,
+        "wires": [
+            [
+                "f75c9f6a9a966daf"
+            ],
+            [
+                "155b4f8e9f77c0b0"
+            ],
+            [
+                "eb705f0d4cec4559"
+            ]
+        ]
+    },
+    {
+        "id": "f75c9f6a9a966daf",
+        "type": "ui-slider",
+        "z": "ddcb12a8b7e6e572",
+        "g": "5ff195e51e8649df",
+        "group": "bb97738361048557",
+        "name": "",
+        "label": "X Abs. Position",
+        "tooltip": "",
+        "order": 5,
+        "width": "0",
+        "height": "0",
+        "passthru": false,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "thumbLabel": "true",
+        "showTicks": "always",
+        "min": "-220",
+        "max": "220",
+        "step": 1,
+        "className": "",
+        "iconPrepend": "",
+        "iconAppend": "",
+        "color": "",
+        "colorTrack": "",
+        "colorThumb": "",
+        "showTextField": false,
+        "x": 460,
+        "y": 760,
+        "wires": [
+            [
+                "87c646f96598e6f6"
+            ]
+        ]
+    },
+    {
+        "id": "4ab52d0d783c556e",
+        "type": "ctrlx-datalayer-request",
+        "z": "ddcb12a8b7e6e572",
+        "g": "5ff195e51e8649df",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PRG_Process/lrMoveAbs_X",
+        "payloadFormat": "value_type",
+        "name": "X Abs",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 850,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "87c646f96598e6f6",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "5ff195e51e8649df",
+        "name": "Double",
+        "func": "let position = msg.payload;\n\nmsg.payload = {type:\"double\",value:position};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 760,
+        "wires": [
+            [
+                "4ab52d0d783c556e"
+            ]
+        ]
+    },
+    {
+        "id": "155b4f8e9f77c0b0",
+        "type": "ui-slider",
+        "z": "ddcb12a8b7e6e572",
+        "g": "9d102ad46f08bc13",
+        "group": "bb97738361048557",
+        "name": "",
+        "label": "Y Abs. Position",
+        "tooltip": "",
+        "order": 7,
+        "width": "0",
+        "height": "0",
+        "passthru": false,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "thumbLabel": "true",
+        "showTicks": "always",
+        "min": "-100",
+        "max": "100",
+        "step": 1,
+        "className": "",
+        "iconPrepend": "",
+        "iconAppend": "",
+        "color": "",
+        "colorTrack": "",
+        "colorThumb": "",
+        "x": 460,
+        "y": 880,
+        "wires": [
+            [
+                "53d16897975c5bcf"
+            ]
+        ]
+    },
+    {
+        "id": "c6ae183f1f1a4247",
+        "type": "ctrlx-datalayer-request",
+        "z": "ddcb12a8b7e6e572",
+        "g": "9d102ad46f08bc13",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PRG_Process/lrMoveAbs_Y",
+        "payloadFormat": "value_type",
+        "name": "Y Abs",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 850,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "53d16897975c5bcf",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "9d102ad46f08bc13",
+        "name": "Double",
+        "func": "let position = msg.payload;\n\nmsg.payload = {type:\"double\",value:position};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 880,
+        "wires": [
+            [
+                "c6ae183f1f1a4247"
+            ]
+        ]
+    },
+    {
+        "id": "eb705f0d4cec4559",
+        "type": "ui-slider",
+        "z": "ddcb12a8b7e6e572",
+        "g": "c548587a52119711",
+        "group": "bb97738361048557",
+        "name": "",
+        "label": "Z Abs. Position",
+        "tooltip": "",
+        "order": 9,
+        "width": "0",
+        "height": "0",
+        "passthru": false,
+        "outs": "all",
+        "topic": "topic",
+        "topicType": "msg",
+        "thumbLabel": "true",
+        "showTicks": "always",
+        "min": "-149",
+        "max": "150",
+        "step": 1,
+        "className": "",
+        "iconPrepend": "",
+        "iconAppend": "",
+        "color": "",
+        "colorTrack": "",
+        "colorThumb": "",
+        "showTextField": false,
+        "x": 460,
+        "y": 1020,
+        "wires": [
+            [
+                "885228457da4849e"
+            ]
+        ]
+    },
+    {
+        "id": "7ff9ee80161415e2",
+        "type": "ctrlx-datalayer-request",
+        "z": "ddcb12a8b7e6e572",
+        "g": "c548587a52119711",
+        "device": "e45e312c80fc001e",
+        "method": "WRITE",
+        "path": "plc/app/Application/sym/PRG_Process/lrMoveAbs_Z",
+        "payloadFormat": "value_type",
+        "name": "Z Abs",
+        "pendingWarnLevel": 50,
+        "pendingErrorLevel": 100,
+        "x": 850,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "885228457da4849e",
+        "type": "function",
+        "z": "ddcb12a8b7e6e572",
+        "g": "c548587a52119711",
+        "name": "Double",
+        "func": "let position = msg.payload;\n\nmsg.payload = {type:\"double\",value:position};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 1020,
+        "wires": [
+            [
+                "7ff9ee80161415e2"
+            ]
+        ]
+    },
+    {
+        "id": "d265fbdc017837e8",
+        "type": "comment",
+        "z": "ddcb12a8b7e6e572",
+        "g": "7d9ad1b30a1a1593",
+        "name": "Manage and Init Axes Sliders",
+        "info": "",
+        "x": 780,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "335a3d74571cbab5",
+        "type": "ui-markdown",
+        "z": "916a7dcd57334d97",
+        "group": "6b2222aa7324c02b",
+        "name": "",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "content": "![HEVS](hei-en.png \"alt text when you hover the image\")\n\n# Camera information\n\n## Basler ace 2 R a2A4096-9gmPRO\n[Basler product information](https://www.baslerweb.com/de-de/shop/a2a4096-9gmpro/?utm_source=google&utm_medium=cpc&utm_campaign=DE+-+B+-+Basler+Brand+%26+CoreBiz&utm_term=Basler+ace+2+Models&utm_id=6637978737&gad_source=1&gclid=EAIaIQobChMI4Z6XtcyQigMV8ZWDBx1gGxSBEAAYASAAEgKu6vD_BwE)\n\n[Basler Lens C11-1220-12M f12mm information](https://docs.baslerweb.com/c11-1220-12m-p?_gl=1*pnlb7t*_gcl_aw*R0NMLjE3MzM0MDA2MDAuRUFJYUlRb2JDaE1JNFo2WHRjeVFpZ01WOFpXREJ4MWdHeFNCRUFBWUFTQUFFZ0t1NnZEX0J3RQ..*_gcl_au*MTMyNTYzOTg3MS4xNzMzNDAwNzY5*_ga*MTk4MjU1NDczMC4xNzIzODAzMTI3*_ga_5KSFYEQ7CY*MTczMzQwMDU5OC42LjEuMTczMzQwMDgxOS42LjAuMA..)\n\n\n# Markdown Content\n\n[link to mermaid](.#Mermaid_flowchart)\n\n## Subtitle\nAxis X: {{msg.payload}}\n\n|Table One|Unit|Value|\n|---------|----|-----|\n|Axis X     |K°| ||\n|Hard     |s|  |42   |\n\nLien vers [CtrlX Core](https://www.boschrexroth.com/fr/ch/myrexroth/collaboration/collaboration-rooms/?page=1&path=%2FCtrlx-Automation&search=)\n\n```js\nlet position = Math.round(msg.payload * 100) / 100;\n\nlet postion_mm = 'Axis X : ';\n\npostion_mm = postion_mm.concat(position,' [mm]');\n\nmsg.payload = postion_mm;\n\nreturn msg;\n```\n\nGoes here...\n\n- [x] Write the press release\n- [ ] Update the website\n- [ ] Contact the media\n\nAuthor: [Cédric Lenoir](mailto:cedric.lenoir@hevs.ch)\n\n# Mermaid flowchart\n\n```mermaid\nflowchart TD\n    A[Start] --> B{Is it?}\n    B -->|Yes| C[OK]\n    C --> D[Rethink]\n    D --> B\n    B ---->|No| E[End]\n```\n",
+        "className": "",
+        "x": 490,
+        "y": 120,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "151e6d4b73ba632d",
+        "type": "ctrlx-datalayer-subscribe",
+        "z": "916a7dcd57334d97",
+        "subscription": "c5b0190b901ecb86",
+        "path": "motion/axs/Axis_x/state/values/actual/pos/mm",
+        "name": "",
+        "inputs": 0,
+        "x": 190,
+        "y": 320,
+        "wires": [
+            [
+                "335a3d74571cbab5",
+                "161a0be0e72ebc2a"
+            ]
+        ]
+    },
+    {
+        "id": "161a0be0e72ebc2a",
+        "type": "debug",
+        "z": "916a7dcd57334d97",
+        "name": "debug 4",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 520,
+        "y": 360,
+        "wires": []
+    }
+]
