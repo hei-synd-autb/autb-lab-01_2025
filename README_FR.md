@@ -152,7 +152,8 @@ dans votre propre profil utilisateur sous C:\Users[ton_nom_utilisateur].node-red
 1) Installer Node-RED
 
 - Ouvrir "l'invite de commande" (cmd.exe)
-- Entrer la commande : npm install -g --unsafe-perm node-red
+- Entrer la commande : ``npm install -g --unsafe-perm node-red``
+- Si vous recevez un message du type: *x packages are looking for funding*, modifiez la commande ainsi: ``npm install --no-fund -g --unsafe-perm node-red``
 - Vérifier la version de Node.js et de Node-RED avec la commande : node-red --version
 
 Si les versions des logiciels ne s'affichent pas, effectuer à nouveau la procédure d'installation mais en utilisant "Windows PowerShell" au lieu de "l'invite de commande".

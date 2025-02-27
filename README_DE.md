@@ -148,6 +148,7 @@ Stattdessen **müssen Sie „Node-RED“ auf dem PC des Automatisierungslabors**
 Im Anschluss an diese Installation wird Ihre Node-RED-Umgebung installiert.
 in Ihrem eigenen Benutzerprofil unter C:\Users[dein_benutzername].node-red.
 
+
 <br>
 <u>Installationsverfahren</u> : 
 <br>
@@ -157,7 +158,8 @@ in Ihrem eigenen Benutzerprofil unter C:\Users[dein_benutzername].node-red.
 1) Installieren Sie Node-RED.
 
 - Öffnen Sie die „Eingabeaufforderung“ (cmd.exe).
-- Geben Sie den Befehl ein: npm install -g --unsafe-perm node-red.
+- Geben Sie den Befehl ein: ``npm install -g --unsafe-perm node-red``.
+- Wenn Sie eine Nachricht wie *x packages are looking for funding* erhalten, ändern Sie den Befehl wie folgt: ``npm install --no-fund -g --unsafe-perm node-red``
 - Überprüfen Sie die Versionen von Node.js und Node-RED mit dem Befehl: node-red --version.
 
 Wenn die Softwareversionen nicht angezeigt werden, führen Sie den Installationsvorgang erneut durch, verwenden Sie jedoch „Windows PowerShell“ statt der „Eingabeaufforderung“.
