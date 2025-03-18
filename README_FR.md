@@ -153,7 +153,6 @@ dans votre propre profil utilisateur sous C:\Users[ton_nom_utilisateur].node-red
 
 - Ouvrir "l'invite de commande" (cmd.exe)
 - Entrer la commande : ``npm install -g --unsafe-perm node-red``
-- Si vous recevez un message du type: *x packages are looking for funding*, modifiez la commande ainsi: ``npm install --no-fund -g --unsafe-perm node-red``
 - Vérifier la version de Node.js et de Node-RED avec la commande : node-red --version
 
 Si les versions des logiciels ne s'affichent pas, effectuer à nouveau la procédure d'installation mais en utilisant "Windows PowerShell" au lieu de "l'invite de commande".
@@ -243,7 +242,7 @@ Ouvrir ctrlX PLC Engineering et effectuer la procédure suivante :
 ```iecst
 PROGRAM PLC_PRG
 VAR
-    iCount    : INT := 3;
+    iCount    : UINT := 3;
 END_VAR
 
 iCount := iCount + 1;
@@ -323,9 +322,52 @@ Le Data Layer ne stocke pas directement les données, mais agit comme un interm�
 - Ouvrir le navigateur
 - Entrer l'URL : http://localhost:1880
 
+
 <br>
 
-3) Accèder à la page "Your First Node Here !"
+
+3) Connecter Node-RED avec le "ctrlX Core"
+
+<u>Procédure </u> :
+
+- Sélectionner l'onglet "PackML"
+
+- Effectuer un double-clic sur le noeud "Open Gripper"
+
+<figure>
+    <img src="./img/NoeudOpenGripper.jpg"
+         alt="Noeud Open Gripper">
+    <figcaption>Noeud Open Gripper</figcaption>
+</figure>
+
+<br>
+
+- Cliquer sur le crayon à droite du champ "NodeRed"
+<figure>
+    <img src="./img/PropertiesNoeudOpenGripper.jpg"
+         alt="Propriétés noeuds Open Gripper">
+    <figcaption>Propriétés noeuds Open Gripper</figcaption>
+</figure>
+
+<br>
+
+- Compléter les différents champs comme suit :
+
+<figure>
+    <img src="./img/FieldsPropertiesOpenGripper.jpg"
+         alt="Champs noeuds Open Gripper">
+    <figcaption>Champs noeud Open Gripper</figcaption>
+</figure>
+
+<br>
+
+Address : 192.168.0.200
+Username : boschrexroth
+Password : boschrexroth
+
+<br>
+
+4) Accèder à l'onglet "Your First Node Here !"
 
 <br>
 
@@ -765,6 +807,12 @@ Ajouter l'outil "Trace" dans CtrlX PLC et visualiser le signal sinusoidal.
 
 
 <br>
+
+Pour visualiser le signal :
+- Sélectionner la fenêtre "Trace"
+- Bouton de droite de la souris
+- Sélectionner "Update Trace"
+
 
 <u>Résultat </u> : 
 

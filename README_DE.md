@@ -159,7 +159,6 @@ in Ihrem eigenen Benutzerprofil unter C:\Users[dein_benutzername].node-red.
 
 - Öffnen Sie die „Eingabeaufforderung“ (cmd.exe).
 - Geben Sie den Befehl ein: ``npm install -g --unsafe-perm node-red``.
-- Wenn Sie eine Nachricht wie *x packages are looking for funding* erhalten, ändern Sie den Befehl wie folgt: ``npm install --no-fund -g --unsafe-perm node-red``
 - Überprüfen Sie die Versionen von Node.js und Node-RED mit dem Befehl: node-red --version.
 
 Wenn die Softwareversionen nicht angezeigt werden, führen Sie den Installationsvorgang erneut durch, verwenden Sie jedoch „Windows PowerShell“ statt der „Eingabeaufforderung“.
@@ -250,7 +249,7 @@ Einen Zähler in eine Aufgabe implementieren und überprüfen, ob die Aufgabe zy
 ```iecst
 PROGRAM PLC_PRG
 VAR
-    iCount    : INT := 3;
+    iCount    : UINT := 3;
 END_VAR
 
 iCount := iCount + 1;
@@ -320,7 +319,7 @@ Der Data Layer speichert die Daten nicht direkt, sondern fungiert als Vermittler
 ## Implementieren Sie das folgende Programm in Node-RED.
 
 1) Starten Sie Node-RED.
-- Öffne die Eingabeaufforderung (cmd.exe).
+- Öffnen Sie die Eingabeaufforderung (cmd.exe).
 - Geben Sie den Befehl ein: node-red
 
 <br>
@@ -331,7 +330,51 @@ Der Data Layer speichert die Daten nicht direkt, sondern fungiert als Vermittler
 
 <br>
 
-3) Rufen Sie die Seite „Your First Node Here!“ auf.
+3) Node-RED mit dem „ctrlX Core“ verbinden
+
+<u>Vorgehensweise </u> :
+
+- Wählen Sie die Registerkarte „PackML“
+
+- Doppelklicken Sie auf den Knoten „Open Gripper“
+
+<figure>
+    <img src="./img/NoeudOpenGripper.jpg"
+         alt="Noeud Open Gripper">
+    <figcaption>Knoten Open Gripper</figcaption>
+</figure>
+
+<br>
+
+- Klicken Sie auf den Bleistift rechts neben dem Feld „NodeRed“
+  
+<figure>
+    <img src="./img/PropertiesNoeudOpenGripper.jpg"
+         alt="Propriétés noeuds Open Gripper">
+    <figcaption>Eigenschaften von Open Gripper Knoten</figcaption>
+</figure>
+
+<br>
+
+- Füllen Sie die verschiedenen Felder wie folgt aus:
+
+<figure>
+    <img src="./img/FieldsPropertiesOpenGripper.jpg"
+         alt="Champs noeuds Open Gripper">
+    <figcaption>Felder Knoten Open Gripper</figcaption>
+</figure>
+
+<br>
+
+Address : 192.168.0.200
+Username : boschrexroth
+Password : boschrexroth
+
+
+
+<br>
+
+4) Rufen Sie die Seite „Your First Node Here!“ auf.
 
 <br>
 
@@ -766,6 +809,13 @@ Fügen Sie das „Trace“-Werkzeug in CtrlX PLC hinzu und visualisieren Sie das
          alt="CtrlX PLC Trace">
     <figcaption>"Trace" Tool in CtrlX PLC</figcaption>
 </figure>
+
+
+Um das Signal zu visualisieren :
+- Wählen Sie das Fenster „Trace“ aus.
+- Rechte Maustaste
+- Wählen Sie „Trace aktualisieren“.
+
 
 
 <br>
